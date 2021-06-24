@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Ginja :) 
-- 👀 I’m interested in motorcycles, books, self-improvement, photography, design, technology, and so much more...
+- 🇱🇹 living in 🇦🇺
+- 💻 Software Engineer in training 👩🏼‍💻
+- 🦄 exMarketer/Digital Designer 🖥
+- 👦🏼 Stay at home mum 👧🏼
+- 👀 Love 🎹, 🏔, 📚, 🏍, 🌱, 💻, 🖼️, 📷, and so much more...
 - 🌱 I’m currently learning Javascript.
 - 📫 Check out my website at https://codingginja.com 
 
