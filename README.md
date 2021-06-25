@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Virginija Meilune - friends call me <b>Ginja</b> :) 
+- 👋 Hi, I’m Virginija Meilune - friends call me <b>Ginja</b> 🤓
 - 🇱🇹 living in 🇦🇺
 - 💻 Software Engineer in training 👩🏼‍💻
 - 🦄 exMarketer/Digital Designer 🖥
