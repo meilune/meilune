@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Virginija Meilune - friends call me <b>Ginja</b> 🤓
 - 🇱🇹 living in 🇦🇺
 - 💻 Software Engineer in training 👩🏼‍💻
+- 🖋 Novelist 📖
 - 🦄 exMarketer/Digital Designer 🖥
 - 👦🏼 Stay at home mum 👧🏼
 - 👀 Love 🎹, 🏔, 📚, 🏍, 🌱, 💻, 🖼️, 📷, and so much more...
