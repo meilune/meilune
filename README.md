@@ -5,7 +5,7 @@
 - 🦄 exMarketer/Digital Designer 🖥
 - 👦🏼 Stay at home mum 👧🏼
 - 👀 Love 🎹, 🏔, 📚, 🏍, 🌱, 💻, 🖼️, 📷, and so much more...
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning <b>JavaScript</b>.
 - 📫 Check out my website at https://codingginja.com 
 - 👩🏼‍💼 Let's connect on https://www.linkedin.com/in/meilune/
 
