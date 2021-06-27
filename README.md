@@ -7,6 +7,7 @@
 - 👀 Love 🎹, 🏔, 📚, 🏍, 🌱, 💻, 🖼️, 📷, and so much more...
 - 🌱 I’m currently learning Javascript.
 - 📫 Check out my website at https://codingginja.com 
+- 👩🏼‍💼 Let's connect on https://www.linkedin.com/in/meilune/
 
 <!---
 meilune/meilune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
