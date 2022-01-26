@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Virginija Meilune - friends call me <b>Ginja</b> 🤓
 - 🇱🇹 living in 🇦🇺
-- 💻 Software Engineer in training 👩🏼‍💻
+- 💻 Web Developer 👩🏼‍💻
 - 🖋 Novelist 📖
 - 🦄 Marketing Pro/Digital Designer 🖥
 - 👦🏼 Stay at home mum 👧🏼
 - 👀 Love 🎹, 🏔, 📚, 🏍, 🌱, 💻, 🖼️, 📷, and so much more...
-- 🌱 I’m currently learning <b>JavaScript</b>.
+- 🌱 I’m currently learning <b>PHP</b>.
 - 📫 Check out my website at https://codingginja.com 
 - 👩🏼‍💼 Let's connect on https://www.linkedin.com/in/meilune/
 
