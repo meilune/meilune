@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning <b>PHP</b>.
 - 📫 Check out my website at https://codingginja.com 
 - ℹ️ Get to know my bussines at https://luaru.com.au
+- 📜 Find out more about me here https://virginijameilune.com
 - 👩🏼‍💼 Let's connect on https://www.linkedin.com/in/meilune/
 
 <!---
