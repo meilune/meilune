@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Virginija Meilune - friends call me <b>Ginja</b> 🤓
 - 🇱🇹 living in 🇦🇺
 - 💻 Web Developer 👩🏼‍💻
+- 👩🏼‍💼 Entrepreneur 📇
 - 🖋 Novelist 📖
 - 🦄 Marketing Pro/Digital Designer 🖥
-- 👦🏼 Stay at home mum 👧🏼
 - 👀 Love 🎹, 🏔, 📚, 🏍, 🌱, 💻, 🖼️, 📷, and so much more...
 - 🌱 I’m currently learning <b>PHP</b>.
 - 📫 Check out my website at https://codingginja.com 
